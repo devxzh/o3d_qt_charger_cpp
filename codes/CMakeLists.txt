@@ -28,8 +28,8 @@ set(PROJECT_SOURCES
         mainwindow.ui
         my_vtk.h
         my_vtk.cpp
-        myDetect.hpp
-        myDetect.cpp
+        my_detect.hpp
+        my_detect.cpp
         scanner_api.h
 )
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
